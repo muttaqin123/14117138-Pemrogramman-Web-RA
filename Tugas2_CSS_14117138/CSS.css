@@ -1,0 +1,27 @@
+.layar1{
+	background-color: red;
+}
+.layar2{
+	background-color: #FFE4C4;
+}
+#bataskiri{
+	margin-left:10px;
+}
+.layar3{
+	display: inline-block;
+	width: 15%;
+	height: 78%;
+	background-color: white; 
+}
+.layar4{
+	display: inline-block;
+	width: 84%;
+	height: 78%;
+	background-color: #DCDCDC; 
+	position: absolute;
+}
+.layar5{
+	background-color: #A9A9A9;
+	height: 25px;
+	position: relative;
+}
